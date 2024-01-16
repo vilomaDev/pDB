@@ -3,7 +3,7 @@ name: CI Pdb
 on:
   push:
     branches: 
-        - main
+        - develop
 
 jobs:
   deploy:
